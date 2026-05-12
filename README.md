@@ -9,6 +9,7 @@ This repository contains learning materials and code examples for **Playwright**
 | **Chapter_01_Basics** | Basic JavaScript setup, environment verification, and hot code reloading |
 | **Chapter_02_JavaScripts_Concept** | Core JavaScript concepts for Playwright |
 | **Chapter_03_Identifiers_Literals** | Identifiers, literals, naming rules, and code comments |
+| **Chapter_04_Javascript_Concepts** | var, let, const, functions, scope, and hoisting |
 
 ## 📂 File Overview
 
@@ -25,7 +26,19 @@ This repository contains learning materials and code examples for **Playwright**
 - `06_Identifiers_Rules.js` - Rules for naming identifiers
 - `07_Identifiers.js` - Working with identifiers
 - `08_Comments.js` - Code documentation and comments
+- `js_identifiers_rules.js` - Comprehensive identifier rules, naming conventions, and examples
 - `VS_Code_keyboard_shortcut_windows.md` - VS Code keyboard shortcuts reference (Windows)
+
+### Chapter 04 - JavaScript Concepts
+- `09_var_let_const.js` - var, let, const declarations and redeclaration behavior
+- `10_functions.js` - Function definition and calling
+- `11_var-explained.js` - var function-scoped behavior demonstration
+- `12_let_concept.js` - let block-scoped behavior demonstration
+- `13_const_explained.js` - const concepts
+- `14_var_function_scoped.js` - var scope demonstration inside functions
+- `15_let_scope.js` - let scope demonstration inside functions and blocks
+- `16_Hoisting.js` - Variable hoisting with var
+- `17_Hoisting_fn.js` - Hoisting inside functions
 
 ## 🚀 Getting Started
 
