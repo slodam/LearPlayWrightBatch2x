@@ -10,6 +10,7 @@ This repository contains learning materials and code examples for **Playwright**
 | **Chapter_02_JavaScripts_Concept** | Core JavaScript concepts for Playwright |
 | **Chapter_03_Identifiers_Literals** | Identifiers, literals, naming rules, and code comments |
 | **Chapter_04_Javascript_Concepts** | var, let, const, functions, scope, and hoisting |
+| **Chapter-05_Literals** | JavaScript literals, null, and undefined |
 
 ## 📂 File Overview
 
@@ -39,6 +40,20 @@ This repository contains learning materials and code examples for **Playwright**
 - `15_let_scope.js` - let scope demonstration inside functions and blocks
 - `16_Hoisting.js` - Variable hoisting with var
 - `17_Hoisting_fn.js` - Hoisting inside functions
+- `18_let_hoisting.js` - let hoisting behavior demonstration
+- `19_let_hoisting_block.js` - let hoisting in block scope
+- `20_let_const.js` - let and const concepts combined
+- `21_Jr_QA.js` - Junior QA JavaScript exercise
+
+### Chapter 05 - Literals
+- `22_Literal.js` - JavaScript literals overview
+- `23_null_undefined.js` - null and undefined concepts
+
+### Daily Tasks
+- `03_June_Task1.js` - June 3rd daily task exercise 1
+- `03_June_Task2.js` - June 3rd daily task exercise 2
+- `22May_Task.js` - May 22nd daily task exercise 1
+- `22May_Task2.js` - May 22nd daily task exercise 2
 
 ## 🚀 Getting Started
 
