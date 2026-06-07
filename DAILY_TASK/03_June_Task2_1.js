@@ -1,6 +1,6 @@
 // ✅ Java Anagrams
 
-let str1 = 'read'
+let str1 = 'red'
 let str2 = 'dare'
 
 let arr1 = Array.from(str1)
@@ -13,16 +13,9 @@ console.log(arr1);
 arr2.sort()
 console.log(arr2);
 
-if (arr1.join() === arr2.join()) {
+if (JSON.stringify(arr1) === JSON.stringify(arr2)) {
     console.log("Java Anagram");
 }
 else {
     console.log("Not Java Anagram");
 }
-
-// if (JSON.stringify(arr1) === JSON.stringify(arr2)) {
-//     console.log("Java Anagram");
-// }
-// else {
-//     console.log("Not Java Anagram");
-// }

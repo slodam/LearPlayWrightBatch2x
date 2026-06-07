@@ -31,29 +31,29 @@ else {
     console.log("Fail")
 }
 
-let studentMarks = 88;
-if (studentMarks >= 90) {
-    console.log("Grade: A");
-} else if (studentMarks >= 80) {
-    console.log("Grade: B");
-} else if (studentMarks >= 70) {
-    console.log("Grade: C");
-} else if (studentMarks >= 60) {
-    console.log("Grade: D");
-} else {
-    console.log("Grade: Fail");
+// let studentMarks = 88;
+// if (studentMarks >= 90) {
+//     console.log("Grade: A");
+// } else if (studentMarks >= 80) {
+//     console.log("Grade: B");
+// } else if (studentMarks >= 70) {
+//     console.log("Grade: C");
+// } else if (studentMarks >= 60) {
+//     console.log("Grade: D");
+// } else {
+//     console.log("Grade: Fail");
 
-    // Question 3 — Leap Year Check
-    // Problem: Take a year and check if it's a leap year.
-    // Rules:
-    // Divisible by 4 AND not divisible by 100 → Leap year
-    // OR divisible by 400 → Leap year
-    // Else → Not a leap year
+// Question 3 — Leap Year Check
+// Problem: Take a year and check if it's a leap year.
+// Rules:
+// Divisible by 4 AND not divisible by 100 → Leap year
+// OR divisible by 400 → Leap year
+// Else → Not a leap year
 
-    let year = 2026
-    if ((year % 4 === 0 && year !== 0) || year % 400 === 0) {
-        console.log("year is leap year")
-    }
-    else {
-        console.log("Not a leap year")
-    }
+let year = 2026
+if ((year % 4 === 0 && year !== 0) || year % 400 === 0) {
+    console.log("year is leap year")
+}
+else {
+    console.log("Not a leap year")
+}
