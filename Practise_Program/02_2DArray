@@ -1,0 +1,15 @@
+let numberArr = [
+    [10, 20, 60],
+    [8, 10, 52],
+    [15, 5, 24],
+    [26, 28, 43],
+    [12, 16, 51]
+];
+
+for (i = 0; i < numberArr.length; i++) {
+    let row = 0
+    for (j = 0; j < numberArr[i].length; j++) {
+        row += numberArr[i][j]
+    }
+    console.log("Row " + (i + 1) + " Sum: " + row)
+}
