@@ -1,0 +1,23 @@
+{
+  "name": "learnplaywritebatch2x",
+  "version": "1.0.0",
+  "description": "This repository contains learning materials and code examples for **Playwright** automation testing - Batch 2x.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slodam/LearPlayWrightBatch2x.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/slodam/LearPlayWrightBatch2x/issues"
+  },
+  "homepage": "https://github.com/slodam/LearPlayWrightBatch2x#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.61.0",
+    "@types/node": "^26.0.0"
+  }
+}
